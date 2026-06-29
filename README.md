@@ -62,7 +62,7 @@ In this project, we:
 
 ---
 
-## My Contributions (Jasman Kaur)
+## My Contributions 
 
 * Set up data pipeline using `yfinance` for live stock data fetching
 * Handled multi-level column issues from yfinance and fixed preprocessing bugs
