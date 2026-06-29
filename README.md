@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction using Machine Learning
+# Stock Price Prediction using Machine Learning
 
 This project is a **collaborative machine learning project** focused on predicting 
 stock price trends using historical market data. The aim is to analyze past stock 
@@ -6,14 +6,14 @@ prices and apply machine learning techniques to understand and predict future mo
 
 ---
 
-## 🤝 Team Collaboration
+## Team Collaboration
 
 This project was developed **together as a team** and all contributors actively 
 participated in data analysis, model development, and result interpretation.
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 Stock market prediction is challenging due to uncertainty and market volatility. 
 In this project, we:
@@ -27,7 +27,7 @@ In this project, we:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -40,7 +40,7 @@ In this project, we:
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 1. **Data Collection** — Downloaded historical AAPL stock data (2015–2024) via yfinance
 2. **Exploratory Data Analysis (EDA)** — Visualized closing price trends, checked for nulls
@@ -53,7 +53,7 @@ In this project, we:
 
 ---
 
-## 📊 Results
+## Results
 
 * Plotted actual vs predicted prices for both train and test sets
 * Achieved low RMSE on test data showing strong trend following
@@ -62,7 +62,7 @@ In this project, we:
 
 ---
 
-## 👩‍💻 My Contributions (Jasman Kaur)
+## My Contributions (Jasman Kaur)
 
 * Set up data pipeline using `yfinance` for live stock data fetching
 * Handled multi-level column issues from yfinance and fixed preprocessing bugs
@@ -74,7 +74,7 @@ In this project, we:
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 * Implement deep learning models (LSTM, GRU) for better accuracy
 * Add technical indicators (RSI, MACD, Bollinger Bands)
