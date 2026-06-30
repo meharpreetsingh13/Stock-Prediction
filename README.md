@@ -6,13 +6,6 @@ prices and apply machine learning techniques to understand and predict future mo
 
 ---
 
-## Team Collaboration
-
-This project was developed **together as a team** and all contributors actively 
-participated in data analysis, model development, and result interpretation.
-
----
-
 ## Project Overview
 
 Stock market prediction is challenging due to uncertainty and market volatility. 
@@ -83,9 +76,3 @@ In this project, we:
 * Deploy as an interactive web application using Streamlit
 
 ---
-
-## 📌 Note
-
-This repository represents a **joint academic project** created through 
-collaboration and shared learning. Individual contributions reflect personal 
-understanding and implementation effort.
